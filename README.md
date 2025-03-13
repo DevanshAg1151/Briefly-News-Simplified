@@ -1,8 +1,8 @@
 # **Briefly.**
 
-### *News, Simplified*
+### _News, Simplified_
 
-![Briefly Logo](path/to/logo.png)  
+![Briefly Logo](/static/images/main-logo.png)
 
 ## Overview
 
@@ -50,4 +50,3 @@
 ## Contact
 
 For any queries or suggestions, feel free to reach out at **[agarwaldeva11@gmail.com](mailto:agarwaldeva11@gmail.com)**.
-
